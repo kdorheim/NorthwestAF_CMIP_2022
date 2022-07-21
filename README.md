@@ -33,7 +33,7 @@ Materials for the July 2022 Northwest A&amp;F University CMIP talk
 * NCL Documentation https://www.ncl.ucar.edu/Download/
 * R package NCDF4 https://cran.r-project.org/web/packages/ncdf4/index.html
 
-**Python **
+**Python**
 
 * Pangeo https://pangeo.io/quickstart.html#learn-about-pangeo-software
 * Xarray https://docs.xarray.dev/en/stable/
